@@ -54,5 +54,4 @@ docs/_build/
 target/
 
 # Project specific
-search.py
-indexdir/
+index_dir/
